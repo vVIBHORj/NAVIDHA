@@ -1,8 +1,9 @@
-#Team name:- NAVIDHA
+# Team name:- NAVIDHA
 # Project Name:- SWASTHA
 
-#Problem Statements:-
+# Problem Statements:-
 ----For the Patients
+
 Illustrating the problem statement through an example: Consider a scenario where a user resides in Delhi but relocates to Bangalore, either in an emergency or for routine check-ups. In such situations, the user endeavors to locate the most suitable hospital nearby. Herein lies the significance of "SWASTHA." By simply inputting the city name and locality, this platform seamlessly identifies and recommends the optimal nearby hospital to the user.
 Some doctors may advise patients to undergo additional tests unnecessarily, potentially driven by a desire to increase profits. However, in many cases, the validity of test results extends up to 14 days. To address this issue and empower users, we provide a platform where individuals can conveniently upload their medical reports for review and consultation, ensuring optimal healthcare decision-making without unnecessary repetition of tests.
 Highlighting the issue at hand: Typically, local pharmacies offer a standard discount margin of 7%. However, our solution involves leveraging online portals such as NETMEDS, which provide significantly higher discounts of up to 13%. This initiative aims to enable users to procure medicines at discounted rates, thereby enhancing accessibility and affordability of healthcare essentials.
